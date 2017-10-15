@@ -52,6 +52,10 @@ public abstract class Machine {
 		this.loadKeyWords(this.keyWords);
 	}
 
+	/**
+	 * 
+	 * @param initialState
+	 */
 	public void setInitialState(State initialState) {
 		this.initialState = initialState;
 	}

@@ -16,3 +16,7 @@ and then include on your pom.xml file:
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 ```
+
+You can also see the [Javinha](https://github.com/softctrl/javinha-lexor) DFA machina that i have build for a college work.
+
+I hove you enjoy it.

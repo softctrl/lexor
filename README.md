@@ -17,6 +17,6 @@ and then include on your pom.xml file:
 		</dependency>
 ```
 
-You can also see the [Javinha](https://github.com/softctrl/javinha-lexor) DFA machina that i have build for a college work.
+You can also see the [Javinha-Lexor](https://github.com/softctrl/javinha-lexor) DFA machina that i have build for a college work.
 
 I hove you enjoy it.
